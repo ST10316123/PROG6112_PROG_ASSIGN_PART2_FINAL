@@ -24,8 +24,8 @@ public class ProgAssignFinalPartTwo {
     */
     
     /*
-    This program helps receptionists with managing appointpointments for a clinic.
-    Patients details are saved and they can select a time appointpropriate for them
+    This program helps receptionists with managing appointments for a clinic.
+    Patients details are saved and they can select a time appropriate for them
     A maximum of 5 bookings can be made with each booking lasting for an hour
     Some of the additional features of this program include: 
     --> Find available times for booking
